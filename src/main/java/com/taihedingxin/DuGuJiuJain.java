@@ -6,6 +6,6 @@ package com.taihedingxin;
  */
 public class DuGuJiuJain {
     public static void main(String[] args) {
-        System.out.println("GIT.......");
+        System.out.println("GIT....&&&&&&...");
     }
 }
