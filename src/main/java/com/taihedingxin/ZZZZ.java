@@ -6,6 +6,6 @@ package com.taihedingxin;
  */
 public class ZZZZ {
     public static void main(String[] args) {
-        System.out.println("ZZZZZZZZZZZZZZZ");
+        System.out.println("ZZZZZZZZZZZnnZZZZ");
     }
 }
